@@ -16,7 +16,7 @@ See comments in ‘Sample Input’ for column mapping (e.g., ItemId becomes tag_
 
 ‘Sample Input’ has all tags (sensor readings) captured in one row. 
 Whereas in ‘Sample Output’ we need one tag per row. 
-That’s why it is called a data transformation task.
+That’s why it is called a Data Transformation task.
 
 ‘Sample Input’ has data captured every 5 milliseconds. We need to aggregate it to 10 sec using MAX as the aggregation function.
 
